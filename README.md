@@ -57,3 +57,4 @@ Global scope variable/object:
 
 
 Any participation in this project is welcome
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thecharge/rage-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
