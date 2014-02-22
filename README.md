@@ -2,6 +2,8 @@ rage-template
 =============
 Written by: Radoslav Sandov <br>
 Simple JavaScript template engine <br>
+Tag for stack Overflow issues: rage-template<br>
+
 Basic usage:<br>
 in the head you add references ti jquery and rage scripts:
 ```html
@@ -52,3 +54,6 @@ Global scope variable/object:
   {{ globalObject.property  }}
 ...
 ```
+
+
+Any participation in this project is welcome
